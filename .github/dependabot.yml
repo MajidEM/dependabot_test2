@@ -14,3 +14,9 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+  - package-ecosystem: "github_actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+      
